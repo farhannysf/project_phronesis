@@ -1,0 +1,34 @@
+<aiml>
+<topic name="TRAININGPENSKE">
+<category>
+<pattern>UNLIKE YOUR BAYESIAN SHIT TIER BRAIN MEANS *</pattern>
+<template>
+<star/>
+</template>
+</category>
+<category>
+<pattern>IT MEANS *</pattern>
+<template>
+<star/>
+</template>
+</category>
+<category>
+<pattern>NEVER MIND</pattern>
+<template>
+NEVERMIND
+</template>
+</category>
+<category>
+<pattern>NEVERMIND</pattern>
+<template>
+NEVERMIND
+</template>
+</category>
+<category>
+<pattern>*</pattern>
+<template>
+<star/>
+</template>
+</category>
+</topic>
+</aiml>
