@@ -20,7 +20,7 @@ Interpreter Version Info: <version/>
 <condition name="secure">
     <li value="yes">
         <!-- Load some key files to integrate AIMLBot with AIMLBayes -->
-        <learn>*.aiml</learn>
+        <learn>aiml/*.aiml</learn>
     </li>
     <li>You are not permitted to load AIML sets.</li>
 </condition>
